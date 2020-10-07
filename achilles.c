@@ -4,7 +4,6 @@
 #include <time.h>
 #define COMPUTATIONS 10000000
 // 10^7 computations ~19secs @ pc's of dept.
-// Achilles number : powerful and not perfect power.
 
 int gcd(int a, int b) {
     if (b == 0) return a;
