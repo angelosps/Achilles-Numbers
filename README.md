@@ -1,7 +1,8 @@
 # :1234: Achilles Numbers
 
 Project 1 for the course "Introduction to Programming" in Semester 1.  
-This project is about checking (consecutive or random generated) numbers and finds which of them are Achilles Numbers.
+This project is about checking (consecutive or random generated) numbers and finds which of them are Achilles Numbers.  
+Reference for Achilles Numbers: https://en.wikipedia.org/wiki/Achilles_number.   
 Optimizations have been made in order to reduce the processing time of the algorithm.  
 The time for checking 10<sup>7</sup> numbers was downed, from ~110 secs (with a very plain algorithm), to under 20 secs.
 
@@ -53,4 +54,4 @@ Found 255 Achilles out of 10000000 tested numbers
 $
 ```
 
-It is included the statement of the project in Greek which provides a more extensive description for the project.
+It is included the statement of the project in Greek which provides a more extensive description of the project.
