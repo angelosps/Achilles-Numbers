@@ -2,7 +2,7 @@
 
 Project 1 for the course "Introduction to Programming" in Semester 1.  
 This project is about checking (consecutive or random generated) numbers and classiffying which of them are Achilles Numbers.
-Optimizations used for downing the time of checking 10<sup>7</sup> numbers with a very plain algorithm, from ~110 secs to under 20 secs. 
+Optimizations have been made for downing the processing time for 10<sup>7</sup> numbers with a very plain algorithm from ~110 secs to under 20 secs. 
 
 Here is an example of running the program for the first 1000 numbers:
 
