@@ -1,6 +1,6 @@
 # :1234: Achilles Numbers
 
-Project 1 for the course "Introduction to Programming" in Semester 1.  
+Project 1 for the course "Introduction to Programming" in Semester 1 @ University of Athens.  
 This project is about checking (consecutive or random generated) numbers and finds which of them are Achilles Numbers.  
 Reference for Achilles Numbers: https://en.wikipedia.org/wiki/Achilles_number.   
 Optimizations have been made in order to reduce the processing time of the algorithm.  
