@@ -59,7 +59,7 @@ Open a terminal in the current directory and do the following for _compile_ and 
 
 ```bash
 $ gcc -o achilles achilles.c 
-$ ./achilles
+$ time ./achilles
 ```
 
 It is included the statement of the project in Greek which provides a more extensive description of the project.
