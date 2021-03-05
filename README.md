@@ -31,7 +31,6 @@ $
 
 ```
 
-
 An example of running the program for 10<sup>7</sup> randomly generated numbers:
 
 
@@ -52,6 +51,15 @@ Current time is 1572712634
   62989088 is Achilles number
 Found 255 Achilles out of 10000000 tested numbers
 $
+```
+
+### Usage:
+
+Open a terminal in the current directory and do the following for _compile_ and _run_:
+
+```bash
+$ gcc -o achilles achilles.c 
+$ ./achilles
 ```
 
 It is included the statement of the project in Greek which provides a more extensive description of the project.
